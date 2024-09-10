@@ -57,23 +57,10 @@ http://exchangeserverpro.com/powershell-script-create-mailbox-size-report-exchan
 ## Credits
 Written by: Paul Cunningham
 
-Find me on:
 
-* My Blog:	https://paulcunningham.me
-* Twitter:	https://twitter.com/paulcunningham
-* LinkedIn:	https://au.linkedin.com/in/cunninghamp/
-* Github:	https://github.com/cunninghamp
 
-Check out my [books](https://paulcunningham.me/books/) and [courses](https://paulcunningham.me/training/) to learn more about Office 365 and Exchange Server.
+* Blog:	https://paulcunningham.me
+*  Github:	https://github.com/cunninghamp
 
-## Additional Credits
-Chris Brown, http://www.flamingkeys.com
 
-Boe Prox, http://learn-powershell.net/
-
-## Change Log
-- V1.00, 2/2/2012 - Initial version
-- V1.01, 27/2/2012 - Improved recipient scope settings, exception handling, and custom file name parameter.
-- V1.02, 16/10/2012 - Reordered report fields, added OU, primary SMTP, some specific folder stats, archive mailbox info, and updated to show DAG name for databases when applicable.
-- V1.03, 27/05/2014 - Modified behavior of Server parameter. Added UseDatabaseQuotaDefaults, AuditEnabled, HiddenFromAddressListsEnabled, IssueWarningQuota, ProhibitSendQuota, ProhibitSendReceiveQuota. Added email functionality. Added auto-loading of snapin for simpler command lines in Task Scheduler
 
